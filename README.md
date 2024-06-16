@@ -48,5 +48,5 @@ CryptoSnap is a dynamic web application designed to provide users with real-time
 
 ## Tech Stack
 
-**Client:** React.Js,Chakra UI
+**Client:** React.Js,Chakra UI,Chart.js
 
