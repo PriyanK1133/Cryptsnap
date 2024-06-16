@@ -1,70 +1,52 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# CryptoSnap
 
-## Available Scripts
+Visit here: https://cryptsnap.vercel.app/
 
-In the project directory, you can run:
+CryptoSnap is a dynamic web application designed to provide users with real-time updates and insights into the cryptocurrency market. Leveraging data from the CoinGecko API, users can monitor live prices and trends of a wide range of cryptocurrencies. The platform offers intuitive visualizations powered by Chart.js, allowing users to track and analyze market movements effectively. Whether you're a seasoned investor or a newcomer exploring the world of digital assets, CryptoSnap offers a user-friendly interface to stay informed about the latest cryptocurrency prices and market fluctuations.
+## Screenshots
 
-### `npm start`
+![App Screenshot](https://res.cloudinary.com/dzjcdhfa6/image/upload/v1718523789/Screenshot_2024-06-16_131047_zviiw0.png)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+![App Screenshot](https://res.cloudinary.com/dzjcdhfa6/image/upload/v1718523788/Screenshot_2024-06-16_131101_tgxgop.png)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+![App Screenshot](https://res.cloudinary.com/dzjcdhfa6/image/upload/v1718523789/Screenshot_2024-06-16_131113_quolvq.png)
 
-### `npm test`
+![App Screenshot](https://res.cloudinary.com/dzjcdhfa6/image/upload/v1718523795/Screenshot_2024-06-16_131247_cbzz81.png)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+![App Screenshot](https://res.cloudinary.com/dzjcdhfa6/image/upload/v1718523789/Screenshot_2024-06-16_131127_x4zmwj.png)
 
-### `npm run build`
+![App Screenshot](https://res.cloudinary.com/dzjcdhfa6/image/upload/v1718523790/Screenshot_2024-06-16_131153_avornq.png)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+![App Screenshot](https://res.cloudinary.com/dzjcdhfa6/image/upload/v1718523790/Screenshot_2024-06-16_131227_keubki.png)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Features
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- **Real-Time Cryptocurrency Prices:**
+  - Live updates of cryptocurrency prices fetched from the CoinGecko API.
+  - Support for a wide range of cryptocurrencies including Bitcoin, Ethereum, and altcoins.
 
-### `npm run eject`
+- **Interactive Charts:**
+  - Visualize price trends and historical data using interactive charts powered by Chart.js.
+ 
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+- **Responsive Design:**
+  - Mobile-friendly interface for seamless access on smartphones and tablets.
+  - Responsive layout adapting to different screen sizes.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+- **Data Visualization:**
+  - Visual representations of market data and trends for easy comprehension.
+  - Comparative analysis of cryptocurrency performance over different time periods.
 
-## Learn More
+- **Performance Optimization:**
+  - Efficient data fetching and caching mechanisms for improved performance.
+  - Optimization for handling high volumes of concurrent user requests.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
+## Tech Stack
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+**Client:** React.Js,Chakra UI
 
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
